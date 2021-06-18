@@ -1,0 +1,15 @@
+.social{
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.social a{
+	font-size: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+}

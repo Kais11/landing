@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Staatliches&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/social.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	margin: 0px;
+	background: linear-gradient(-225deg, rgba(150,193,236), rgba(240,255,240));
+}
+h1,h2,h3{
+	font-family: 'Staatliches', cursive;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
+
+img{
+margin: 20px 
+}
